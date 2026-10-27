@@ -15,3 +15,4 @@
 13-symbolic_link: Creates a symbolic link named __ls__ pointing to /bin/ls in the current working directory.
 14-copy_html: Copies HTML files to the parent directory if they are new or newer than existing copies.
 15-lets_move: Moves all files beginning with an uppercase letter to /tmp/u.
+16-clean_emacs: Deletes all files ending with ~ in the current working directory.
